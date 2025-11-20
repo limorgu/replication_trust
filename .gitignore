@@ -1,0 +1,14 @@
+# ignore original authors' materials and heavy data/outputs
+10_no_replication_trust/original_paper/
+10_no_replication_trust/input_all/
+10_no_replication_trust/output/
+10_no_replication_trust/Ex1/output/
+10_no_replication_trust/Ex2/plots/
+
+# misc local stuff
+*.ipynb_checkpoints/
+.DS_Store
+.venv/
+10_no_replication_trust/original_paper/
+10_no_replication_trust/input_all/
+10_no_replication_trust/output/
